@@ -99,10 +99,20 @@ section h5{
     margin-left: 465px
 }
 
+section h6{
+    background-color: lightgray; 
+    padding: 50px 50px; 
+    width: 350px;
+    float: left; 
+    display: Block;
+    clear: both; 
+    margin-left: 465px
+}
 
 section h3, 
 section h4,
-section h5 {
+section h5,
+section h6 {
     font-size: 20px;
     font-family: Arial;
     font-weight: bold;
@@ -167,4 +177,5 @@ nav ul li a:hover {
 footer {
     background-color: beige;
     padding: 20px;
+    margin-top: 450px;
 }
