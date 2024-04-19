@@ -119,7 +119,7 @@ section h6 {
 
 }
 
-/* CSS for the Page name */
+/* CSS for the Page background */
 
 #Web {
     position: relative;
@@ -145,7 +145,7 @@ nav ul li a:hover {
     cursor: pointer; 
 }
 
-
+/* Image placement */
 #WEB img {
     width: 750px;
     padding: 30px;
